@@ -1,0 +1,63 @@
+/* *
+{
+  margin: 15px;
+}
+.card {
+    box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2);
+    width: 30%;
+    transition: 0.3s;
+    text-align: center;
+    background-color: #f1f1f1;
+    background: url("../assests/h.png") no-repeat;
+    display: inline-block;
+    
+  }
+  
+
+  .card:hover {
+    display: flex;
+    box-shadow: 0 8px 16px 0 rgba(0,0,0,0.4);
+    width: 50%;height: 50%;
+    display: inline-block;
+    flex-grow: 3;
+    
+    background: url(../assests/pngfind.com-anime-boy-png-841260.png) no-repeat;
+
+    
+  }
+  
+  .container {
+    padding: 2px 16px;
+  } */
+  /* .card {
+    display: flex;
+    box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2);
+    width: 30%;
+    width: 45%;
+    height: 1200px;
+    background: url("../assests/h.png") 50% no-repeat;
+    margin: 50px;
+}
+.card:hover {
+  box-shadow: 0 8px 16px 0 rgba(0,0,0,0.4);
+  flex-grow: 3;
+  background: url("../assests/pngfind.com-anime-boy-png-841260.png") no-repeat;
+  transform: scale(1.1);
+}
+.card1 {
+  display: flex;
+  display: inline-block;
+  box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2);
+  width: 30%;
+  width: 45%;
+  height: 1200px;
+  background: url("../assests/vippng.com-anime-girl-png-203391.png") 50% no-repeat;
+  margin: 50px;
+}
+.card1:hover {
+  box-shadow: 0 8px 16px 0 rgba(0,0,0,0.4);
+  flex-grow: 3;
+  background: url("../assests/170286-beautiful-photos-girl-anime-free-download-png-hq.png") no-repeat;
+  transform: scale(1.1);
+  
+} */
